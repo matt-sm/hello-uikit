@@ -11,8 +11,11 @@ class App extends Component {
         </header>
         <p>
           <strong>uikit font:</strong>
-          <span class="font">The quick brown fox jumps over the lazy dog</span>
+          <span className="font">The quick brown fox jumps over the lazy dog</span>
         </p>
+        <div className="app-div">
+          I am specific to this page
+        </div>
         <button className="uikit-btn">Continue</button>
       </div>
     );

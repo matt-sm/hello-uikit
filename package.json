@@ -43,8 +43,8 @@
     },
     "sass": {
       "modules": false,
-      "location": "pancake/sass/",
-      "name": "pancake.scss"
+      "location": "src/",
+      "name": "uikit.scss"
     }
   }
 }
