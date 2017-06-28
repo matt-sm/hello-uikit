@@ -1,4 +1,4 @@
-Uses [ui-kit](https://github.com/govau/uikit) with [Create React App](https://github.com/facebookincubator/create-react-app)
+[ui-kit](https://github.com/govau/uikit) with [Create React App](https://github.com/facebookincubator/create-react-app)
 
 Steps:
 1. Run `create-react-app` on a new repo
